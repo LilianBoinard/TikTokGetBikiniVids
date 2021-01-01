@@ -1,0 +1,14 @@
+certifi==2020.12.5
+chardet==4.0.0
+greenlet==1.0a1
+idna==2.10
+playwright==0.171.1
+pyee==8.1.0
+PySocks==1.7.1
+requests==2.25.1
+selenium==3.141.0
+selenium-stealth==1.0.6
+sockets==1.0.0
+TikTokApi==3.8.9
+typing-extensions==3.7.4.3
+urllib3==1.26.2
